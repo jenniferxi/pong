@@ -1,4 +1,4 @@
 # pong
 Pong game made in Processing
 
-Grade 11 at York Mills C.I. (2020)
+Grade 12 at York Mills C.I. (2020)
